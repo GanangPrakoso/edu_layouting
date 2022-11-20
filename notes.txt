@@ -1,0 +1,5 @@
+- font awesome cdn
+<script
+      src="https://kit.fontawesome.com/65cf2a4645.js"
+      crossorigin="anonymous"
+    ></script>
