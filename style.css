@@ -1,34 +1,36 @@
 .title {
-    text-align: center;
-    color: #FFFFFF;
-    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
-    color: #FFFFFF;
-    font-size: 40px;
-    font-family: 'Tektur', cursive;
+  text-align: center;
+  color: #ffffff;
+  text-shadow: #fff 0px 0px 5px, #fff 0px 0px 10px, #fff 0px 0px 15px,
+    #ff2d95 0px 0px 20px, #ff2d95 0px 0px 30px, #ff2d95 0px 0px 40px,
+    #ff2d95 0px 0px 50px, #ff2d95 0px 0px 75px;
+  color: #ffffff;
+  font-size: 40px;
+  font-family: "Tektur", cursive;
 }
 
 .container {
-    background-color: #f4f4f4;
+  background-color: #f4f4f4;
 }
 
 .box {
-    font-size: 20px;
-    width: 100px;
-    height: 100px;
+  font-size: 20px;
+  width: 100px;
+  height: 100px;
 }
 
 .pink {
-    background-color: #f6b8cf;
+  background-color: #f6b8cf;
 }
 
 .cream {
-    background-color: #eed2bc;
+  background-color: #eed2bc;
 }
 
 .green {
-    background-color: #a4d0d7;
+  background-color: #a4d0d7;
 }
 
 .blue {
-    background-color: #bdcdf9;
+  background-color: #bdcdf9;
 }
