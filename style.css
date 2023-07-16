@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+}
+
+.container {
+    background-color: #f4f4f4;
+    border: 1px solid rgb(214, 182, 182);
+}
+
+.box {
+    display: flex;
+    /* color: white; */
+    font-size: 20px;
+    width: 100px;
+    height: 100px;
+}
+
+.pink {
+    background-color: #f6b8cf;
+}
+
+.cream {
+    background-color: #eed2bc;
+}
+
+.green {
+    background-color: #a4d0d7;
+}
+
+.blue {
+    background-color: #bdcdf9;
+}
