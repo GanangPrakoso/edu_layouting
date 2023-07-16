@@ -8,8 +8,6 @@ h1 {
 }
 
 .box {
-    display: flex;
-    /* color: white; */
     font-size: 20px;
     width: 100px;
     height: 100px;
