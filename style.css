@@ -9,28 +9,43 @@
   font-family: "Tektur", cursive;
 }
 
+.pink {
+  background-color: #f6b8cf;
+  flex-grow: 1;
+  order: 1;
+}
+
+.cream {
+  background-color: #eed2bc;
+  flex-grow: 2;
+  order: 2;
+}
+
+.green {
+  background-color: #a4d0d7;
+  flex-grow: 3;
+}
+
+.blue {
+  background-color: #bdcdf9;
+  flex-grow: 1;
+  order: -1;
+}
+
 .container {
+  height: 80vh;
   background-color: #f4f4f4;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: start;
 }
 
 .box {
   font-size: 20px;
   width: 100px;
   height: 100px;
-}
-
-.pink {
-  background-color: #f6b8cf;
-}
-
-.cream {
-  background-color: #eed2bc;
-}
-
-.green {
-  background-color: #a4d0d7;
-}
-
-.blue {
-  background-color: #bdcdf9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

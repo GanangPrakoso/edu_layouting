@@ -1,0 +1,30 @@
+$font-stack: Helvetica, sans-serif;
+$primary-color: #333;
+
+body {
+  font: 100% $font-stack;
+  background-color: $primary-color;
+}
+
+.container {
+  background-color: white;
+  display: flex;
+}
+
+.box {
+  font-size: 20px;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+}
+
+$base-color: #036;
+
+@for $i from 1 through 12 {
+  .container .box:nth-child(#{$i}) {
+    background-color: lighten($base-color, $i * 5%);
+  }
+}
