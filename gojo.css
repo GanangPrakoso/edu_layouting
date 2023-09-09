@@ -17,11 +17,3 @@ h1 {
   width: 350px;
   height: 200px;
 }
-
-.penampung {
-  display: flex;
-  flex-direction: column;
-  justify-content: start;
-  align-items: end;
-  height: 80vh;
-}
