@@ -9,16 +9,6 @@
   font-family: "Tektur", cursive;
 }
 
-.container {
-  background-color: #f4f4f4;
-}
-
-.box {
-  font-size: 20px;
-  width: 100px;
-  height: 100px;
-}
-
 .pink {
   background-color: #f6b8cf;
 }
@@ -33,4 +23,14 @@
 
 .blue {
   background-color: #bdcdf9;
+}
+
+.container {
+  background-color: #f4f4f4;
+}
+
+.box {
+  font-size: 20px;
+  width: 100px;
+  height: 100px;
 }
